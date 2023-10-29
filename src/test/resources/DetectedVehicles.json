@@ -1,0 +1,25 @@
+{
+  "camId": "507f191e810c19729de860ea",
+  "dateTime": "2019-09-07T15:50+00Z",
+  "sourceS3Object": "arn:aws:s3:::images/507f191e810c19729de860ea/image-2019-09-07.jpg",
+  "vehicles": [
+    {
+      "type": "BUS",
+      "color": {
+        "r": 126,
+        "g": 23,
+        "b": 78
+      },
+      "positionOnSourceImage": {
+        "topLeft": {
+          "x": 10,
+          "y": 22
+        },
+        "bottomRight": {
+          "x": 29,
+          "y": 44
+        }
+      }
+    }
+  ]
+}
